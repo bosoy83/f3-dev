@@ -1,0 +1,15 @@
+{
+    "name": "caset/f3nimi",
+    "description": "f3",
+    "keywords": ["caset", "f3"],
+    "license": "MIT",
+    "type": "project",
+	"require": {
+        "php": ">=5.5.9",
+        "bcosca/fatfree": "dev-master"
+    },
+	"repositories": [
+        {"type": "composer", "url": "http://pkg.phpcomposer.com/repo/packagist/"},
+        {"packagist": false}
+    ]
+}
